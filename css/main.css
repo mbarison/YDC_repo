@@ -1,0 +1,66 @@
+@CHARSET "UTF-8";
+
+body {
+    background-color: white;
+    font-family: Montserrat, Verdana, Helvetica, sans-serif;
+    font-size: 16px;
+    text-decoration: none;
+    margin: 0px;
+    padding: 0px;
+    margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    font-family: Lobster, cursive;
+    font-weight: bold;
+}
+
+p {
+    color: white;
+    text-align: justify;
+}
+
+table.main {
+	background-color: #52c5cc;
+	width: 770px;
+	height: 100%;
+}
+
+ /* unvisited link */
+a:link {
+    color: white;
+}
+
+/* visited link */
+a:visited {
+    color: white;
+}
+
+/* mouse over link */
+a:hover {
+    color: yellow;
+}
+
+/* selected link */
+a:active {
+    color: yellow;
+}
+
+/* navigation bar */
+a.navbar {
+	color: black;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+img.navbar {
+	border: 0px;
+	vertical-align: middle;
+}
+
+img.rborder {
+    border:5px solid white;
+    border-radius: 8px
+}
