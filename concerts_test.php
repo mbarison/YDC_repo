@@ -25,7 +25,7 @@ Our next concert
 				<P align="left" STYLE="font-size: 12px;">Unitarian Church of Montreal
 				<BR>5035 de Maisonneuve O.
 				<BR>(Métro Vendome)
-				<P align="left" STYLE="font-size: 12px;">Tickets: $20; Students: $15
+				<P align="left" STYLE="font-size: 12px;">Tickets: Regular $20; Students/Seniors: $15
 			</TD>
 		</TR>
 	</TABLE>
